@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.Header{
+ display: flex;
+ justify-content: center;
+ gap: 100px;
+ align-items: center;
+ border: 1px solid black;
+ height: 50px;
+ background-color: antiquewhite;
+}
+
+
+img{
+  width: 400px;
+  height: 400px;
+}
+.user{
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 5px;
+}
